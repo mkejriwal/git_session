@@ -1,0 +1,16 @@
+What is Version Control?
+How github is useful?
+
+File
+- modified(personal level, no one else can see the changes)
+- staged (before committing, after modification, git@)
+- committed (when it goes in GIT directory, the file is ready to be committed)
+
+git status: to look for the files which are staged or unstaged.
+How to procedd?
+Open Git Bash
+-config
+-git init
+-git config --global user.name "mkejriwal"
+-git config --global user.email "kejriwalmahima1998@gmail.com"
+-
